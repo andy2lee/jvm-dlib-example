@@ -11,5 +11,5 @@ dlib example for jvm lang. java/kotlin
 7. `cmake --build . --config Release`
 9. `cd Release` and get dlibintf.dll
 10. copy `jvm-dlib-example/dlib-20.0/examples/Release` to `dlib-20.0/examples/build/Release` folder
-11. javac -cp . App.java or kotlinc -cp . App.kt
-12. java -cp . App or kotlin -cp . Appkt
+11. `javac -cp . App.java` or `kotlinc -cp . App.kt`
+12. `java -cp . App` or `kotlin -cp . Appkt`
