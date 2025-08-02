@@ -1,4 +1,4 @@
-# jvm-dlib-example
+# java-dlib-example
 dlib example for jvm lang. java/kotlin
 
 # Run Program (Windows platform) (JDK 23 ffm panama access to native)
